@@ -1,4 +1,4 @@
-# 🧪 REACTORIUM  
+# 🧪 REACTORIUM 2.o
 ### An Experimental AI-Driven Chemical Reasoning System
 <!-- <p align="center">
   <img src="assets/reactorium-logo.jpeg" alt="REACTORIUM Logo" width="500"/>
