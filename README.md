@@ -14,16 +14,6 @@ The project integrates **symbolic chemical rules**, **natural language understan
 
 ---
 
-## 🚀 Live Demo
-
-- 🌐 **Frontend (React.js)**  
-  https://reactorium.netlify.app  
-
-- ⚙️ **Backend API (FastAPI)**  
-  https://reactorium.up.railway.app  
-
----
-
 ## 🔬 Project Overview
 
 REACTORIUM simulates how chemical components interact under different reaction conditions such as:
